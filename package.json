@@ -51,7 +51,7 @@
     "got": "^9.6.0",
     "insight": "^0.10.3",
     "is-online": "^8.4.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "mac-open-with": "^1.2.3",
     "mac-screen-capture-permissions": "^1.1.0",
     "mac-windows": "^0.7.1",
